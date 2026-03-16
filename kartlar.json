@@ -1,0 +1,40 @@
+{
+  "konular": [
+    {
+      "id": "tarih",
+      "baslik": "Tarih",
+      "emoji": "📜",
+      "kartlar": [
+        {"soru": "Osmanlı Devleti hangi yılda kurulmuştur?", "cevap": "1299 yılında Osman Bey tarafından kurulmuştur."},
+        {"soru": "İlk Türk İslam devleti hangisidir?", "cevap": "Karahanlılar Devleti'dir."},
+        {"soru": "Kurtuluş Savaşı hangi yılda başlamıştır?", "cevap": "19 Mayıs 1919'da Atatürk'ün Samsun'a çıkmasıyla başlamıştır."},
+        {"soru": "Cumhuriyet hangi tarihte ilan edilmiştir?", "cevap": "29 Ekim 1923'te ilan edilmiştir."},
+        {"soru": "Fatih Sultan Mehmet İstanbul'u hangi yılda fethetti?", "cevap": "1453 yılında fethetti."}
+      ]
+    },
+    {
+      "id": "cografya",
+      "baslik": "Coğrafya",
+      "emoji": "🗺️",
+      "kartlar": [
+        {"soru": "Türkiye'nin en uzun nehri hangisidir?", "cevap": "Kızılırmak Nehri'dir."},
+        {"soru": "Türkiye'nin en yüksek dağı hangisidir?", "cevap": "Ağrı Dağı, 5137 metredir."},
+        {"soru": "Türkiye kaç komşu ülkeyle çevrilidir?", "cevap": "8 komşu ülkeyle çevrilidir."},
+        {"soru": "En büyük gölümüz hangisidir?", "cevap": "Van Gölü'dür."},
+        {"soru": "Türkiye hangi yarımkıtada yer alır?", "cevap": "Anadolu yarımkıtasında yer alır."}
+      ]
+    },
+    {
+      "id": "vatandaslik",
+      "baslik": "Vatandaşlık",
+      "emoji": "⚖️",
+      "kartlar": [
+        {"soru": "Türkiye Cumhuriyeti Anayasası kaç yılında yapılmıştır?", "cevap": "1982 yılında yapılmıştır."},
+        {"soru": "TBMM kaç milletvekilinden oluşur?", "cevap": "600 milletvekilinden oluşur."},
+        {"soru": "Cumhurbaşkanlığı görevi kaç yıldır?", "cevap": "5 yıldır, en fazla 2 dönem görev yapılabilir."},
+        {"soru": "Seçme yaşı kaçtır?", "cevap": "18 yaşında seçme hakkı kazanılır."},
+        {"soru": "Olağanüstü hal en fazla kaç ay ilan edilebilir?", "cevap": "İlk ilanı 6 aydır, uzatmalar 4'er aydır."}
+      ]
+    }
+  ]
+}
