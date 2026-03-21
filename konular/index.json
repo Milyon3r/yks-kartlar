@@ -1,0 +1,19 @@
+{
+  "dersler": [
+    {"id": "turk_tarihi", "baslik": "Türk Tarihi", "emoji": "📜"},
+    {"id": "inkilap", "baslik": "İnkılap Tarihi", "emoji": "🏛️"},
+    {"id": "cografya", "baslik": "Coğrafya", "emoji": "🗺️"},
+    {"id": "vatandaslik", "baslik": "Vatandaşlık ve Anayasa", "emoji": "⚖️"},
+    {"id": "matematik", "baslik": "Matematik Temel", "emoji": "🔢"},
+    {"id": "geometri", "baslik": "Geometri", "emoji": "📐"},
+    {"id": "fizik", "baslik": "Fizik", "emoji": "⚡"},
+    {"id": "kimya", "baslik": "Kimya", "emoji": "🧪"},
+    {"id": "biyoloji", "baslik": "Biyoloji", "emoji": "🧬"},
+    {"id": "felsefe", "baslik": "Felsefe", "emoji": "🧠"},
+    {"id": "psikoloji", "baslik": "Psikoloji", "emoji": "💭"},
+    {"id": "sosyoloji", "baslik": "Sosyoloji", "emoji": "👥"},
+    {"id": "din", "baslik": "Din Kültürü", "emoji": "☪️"},
+    {"id": "ekonomi", "baslik": "Ekonomi", "emoji": "💰"},
+    {"id": "sozcuk", "baslik": "Sözcükte Anlam", "emoji": "🔤"}
+  ]
+}
