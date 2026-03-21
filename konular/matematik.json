@@ -3,7 +3,7 @@
     {
       "id": "matematik",
       "baslik": "Matematik Temel",
-      "emoji": "🔢",
+      "emoji": "🧠",
       "kartlar": [
         {"id": 1, "soru": "Rasyonel sayı nedir?", "cevap": "Kesir şeklinde yazılabilen sayılardır. Örneğin 1/2, 3, -5 gibi."},
         {"id": 2, "soru": "İrrasyonel sayı nedir?", "cevap": "Kesir şeklinde yazılamayan sayılardır. Örneğin π, √2, e gibi."},
